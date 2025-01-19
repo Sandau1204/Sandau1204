@@ -10,10 +10,8 @@
 - 🔭 I’m currently working on [Mosa_bot](https://github.com/Sandau1204/Mosa-bot)
 
 - 🌱 I’m currently learning **Java, Ruby, Python, JS, C++**
-
-- 👯 I’m looking to collaborate on **FB**
-
-- 🤝 I’m looking for help with **Discord**
+  
+- My discord server  [Shit](https://discord.gg/kzs8M6vRQ9)
 
 - 📫 How to reach me **uongsythanganh@gmail.com**
 
