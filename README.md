@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/sỹ thắng anh uông" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sỹ thắng anh uông" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sand" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sandau1204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sandau1204" height="30" width="40" /></a>
-<a href="https://fb.com/uông sỹ thắng anh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uông sỹ thắng anh" height="30" width="40" /></a>
+<a href="https://fb.com/Sandau1204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uông sỹ thắng anh" height="30" width="40" /></a>
 <a href="https://discord.gg/700198692694786068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="700198692694786068" height="30" width="40" /></a>
 </p>
 
