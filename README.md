@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Mosa_bot](https://github.com/Sandau1204/Mosa-bot)
-
 - 🌱 I’m currently learning **Java, Ruby, Python, JS, C++**
   
 - My discord server  [Shit](https://discord.gg/kzs8M6vRQ9)
